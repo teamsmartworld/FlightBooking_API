@@ -44,7 +44,6 @@ The assistant should understand the message and help the user with:
 - Use **in-memory chat history** to maintain the context of the conversation with a limited number of messages.
 - Implement **tool calling** so the assistant can trigger actions like searching flights or booking a seat based on the
   user's request
-- Fine-tune the assistant's replies to match the tone and flow of your app
 
 Make sure your assistant can guide the user step-by-step and handle missing or unclear information gracefully.
 
